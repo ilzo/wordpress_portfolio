@@ -6,3 +6,4 @@ The animations used on the page implement scrollmagic and GSAP javascript plugin
 
 
 *Author: Ilari Juvani*
+*Project started: 8th October, 2015*
