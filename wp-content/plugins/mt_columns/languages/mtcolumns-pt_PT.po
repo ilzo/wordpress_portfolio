@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Columns by ModernThemes v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-08 17:26:05+0000\n"
+"Last-Translator: robbie <robbie@modernthemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "Columns by ModernThemes"
+msgstr "Colunas por ModernThemes"
+
+#. translators: plugin header field 'PluginURI'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "http://modernthemes.net/plugins/columns"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "This is a plugin by ModernThemes that adds a four columns widget."
+msgstr "Este é um plugin por ModernThemes que adiciona um widget de quatro colunas."
+
+#. translators: plugin header field 'Author'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "ModernThemes"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "http://modernthemes.net/"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "1.0.0"
+msgstr ""
+
+#: inc/widget-mt-columns.php:11
+#@ mtcolumns
+msgid "Populate columns for your home page."
+msgstr "Preencha colunas para sua home page."
+
+#: inc/widget-mt-columns.php:13
+#@ mtcolumns
+msgid "MT - Home Page Columns"
+msgstr "MT - colunas de página inicial"
+
+#: inc/widget-mt-columns.php:93
+#@ mtcolumns
+msgid "Number of Columns - <em>Max: 4</em>"
+msgstr "Número de colunas - <em>Max: 4</em>"
+
+#: inc/widget-mt-columns.php:102
+#@ mtcolumns
+msgid "First column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Primeiro ícone de coluna. Use fortawesome.github.io/Font-Awesome/cheatsheet/ para escolher ícones."
+
+#: inc/widget-mt-columns.php:110
+#@ mtcolumns
+msgid "First column name"
+msgstr "Primeiro nome da coluna"
+
+#: inc/widget-mt-columns.php:119
+#@ mtcolumns
+msgid "First column text"
+msgstr "Primeiro texto da coluna"
+
+#: inc/widget-mt-columns.php:128
+#@ mtcolumns
+msgid "Link for first button"
+msgstr "Link para o primeiro botão"
+
+#: inc/widget-mt-columns.php:138
+#@ mtcolumns
+msgid "Title for first button"
+msgstr "Título para o primeiro botão"
+
+#: inc/widget-mt-columns.php:150
+#@ mtcolumns
+msgid "Second column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Segundo ícone da coluna. Use fortawesome.github.io/Font-Awesome/cheatsheet/ para escolher ícones."
+
+#: inc/widget-mt-columns.php:158
+#@ mtcolumns
+msgid "Second column name"
+msgstr "Segundo nome de coluna"
+
+#: inc/widget-mt-columns.php:168
+#@ mtcolumns
+msgid "Second column text"
+msgstr "Texto da segundo coluna"
+
+#: inc/widget-mt-columns.php:176
+#@ mtcolumns
+msgid "Link for second button"
+msgstr "Link para o segundo botão"
+
+#: inc/widget-mt-columns.php:186
+#@ mtcolumns
+msgid "Title for second button"
+msgstr "Título para o segundo botão"
+
+#: inc/widget-mt-columns.php:198
+#@ mtcolumns
+msgid "Third column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Ícone da terceira coluna. Use fortawesome.github.io/Font-Awesome/cheatsheet/ para escolher ícones."
+
+#: inc/widget-mt-columns.php:206
+#@ mtcolumns
+msgid "Third column name"
+msgstr "Terceiro nome da coluna"
+
+#: inc/widget-mt-columns.php:216
+#@ mtcolumns
+msgid "Third column text"
+msgstr "Terceiro texto da coluna"
+
+#: inc/widget-mt-columns.php:225
+#@ mtcolumns
+msgid "Link for third button"
+msgstr "Link para o terceiro botão"
+
+#: inc/widget-mt-columns.php:235
+#@ mtcolumns
+msgid "Title for third button"
+msgstr "Título para o terceiro botão"
+
+#: inc/widget-mt-columns.php:246
+#@ mtcolumns
+msgid "Fourth column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Ícone da quarta coluna. Use fortawesome.github.io/Font-Awesome/cheatsheet/ para escolher ícones."
+
+#: inc/widget-mt-columns.php:254
+#@ mtcolumns
+msgid "Fourth column name"
+msgstr "Nome da coluna de quarta"
+
+#: inc/widget-mt-columns.php:264
+#@ mtcolumns
+msgid "Fourth column value"
+msgstr "Valor da quarta coluna"
+
+#: inc/widget-mt-columns.php:272
+#@ mtcolumns
+msgid "Link for fourth button"
+msgstr "Link para o quarto botão"
+
+#: inc/widget-mt-columns.php:282
+#@ mtcolumns
+msgid "Title for fourth button"
+msgstr "Título para o quarto botão"
+

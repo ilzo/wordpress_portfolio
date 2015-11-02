@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Columns by ModernThemes v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-08 18:28:46+0000\n"
+"Last-Translator: robbie <robbie@modernthemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "Columns by ModernThemes"
+msgstr "Столбцы по ModernThemes"
+
+#. translators: plugin header field 'PluginURI'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "http://modernthemes.net/plugins/columns"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "This is a plugin by ModernThemes that adds a four columns widget."
+msgstr "Это плагин к ModernThemes, который добавляет четыре колонки виджет."
+
+#. translators: plugin header field 'Author'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "ModernThemes"
+msgstr "ModernThemes"
+
+#. translators: plugin header field 'AuthorURI'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "http://modernthemes.net/"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: columns-by-mt.php:0
+#@ mtcolumns
+msgid "1.0.0"
+msgstr ""
+
+#: inc/widget-mt-columns.php:11
+#@ mtcolumns
+msgid "Populate columns for your home page."
+msgstr "Заполнение столбцов для вашей домашней страницы."
+
+#: inc/widget-mt-columns.php:13
+#@ mtcolumns
+msgid "MT - Home Page Columns"
+msgstr "MT - Главная страница столбцы"
+
+#: inc/widget-mt-columns.php:93
+#@ mtcolumns
+msgid "Number of Columns - <em>Max: 4</em>"
+msgstr "Количество столбцов - <em>Макс: 4</em>"
+
+#: inc/widget-mt-columns.php:102
+#@ mtcolumns
+msgid "First column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Первый столбец значок. Используйте fortawesome.github.io/Font-Awesome/cheatsheet/ для выбора значков."
+
+#: inc/widget-mt-columns.php:110
+#@ mtcolumns
+msgid "First column name"
+msgstr "Имя первого столбца"
+
+#: inc/widget-mt-columns.php:119
+#@ mtcolumns
+msgid "First column text"
+msgstr "Первый столбец текста"
+
+#: inc/widget-mt-columns.php:128
+#@ mtcolumns
+msgid "Link for first button"
+msgstr "Ссылка для первой кнопки"
+
+#: inc/widget-mt-columns.php:138
+#@ mtcolumns
+msgid "Title for first button"
+msgstr "Название для первой кнопки"
+
+#: inc/widget-mt-columns.php:150
+#@ mtcolumns
+msgid "Second column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Второй значок в столбце. Используйте fortawesome.github.io/Font-Awesome/cheatsheet/ для выбора значков."
+
+#: inc/widget-mt-columns.php:158
+#@ mtcolumns
+msgid "Second column name"
+msgstr "Имя второго столбца"
+
+#: inc/widget-mt-columns.php:168
+#@ mtcolumns
+msgid "Second column text"
+msgstr "Второй столбец текста"
+
+#: inc/widget-mt-columns.php:176
+#@ mtcolumns
+msgid "Link for second button"
+msgstr "Ссылка для второй кнопки"
+
+#: inc/widget-mt-columns.php:186
+#@ mtcolumns
+msgid "Title for second button"
+msgstr "Название для второй кнопки"
+
+#: inc/widget-mt-columns.php:198
+#@ mtcolumns
+msgid "Third column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Третий столбец значок. Используйте fortawesome.github.io/Font-Awesome/cheatsheet/ для выбора значков."
+
+#: inc/widget-mt-columns.php:206
+#@ mtcolumns
+msgid "Third column name"
+msgstr "Третий имя столбца"
+
+#: inc/widget-mt-columns.php:216
+#@ mtcolumns
+msgid "Third column text"
+msgstr "Третий столбец текста"
+
+#: inc/widget-mt-columns.php:225
+#@ mtcolumns
+msgid "Link for third button"
+msgstr "Ссылка на третью кнопку"
+
+#: inc/widget-mt-columns.php:235
+#@ mtcolumns
+msgid "Title for third button"
+msgstr "Название третьей кнопки"
+
+#: inc/widget-mt-columns.php:246
+#@ mtcolumns
+msgid "Fourth column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Четвертый столбец значок. Используйте fortawesome.github.io/Font-Awesome/cheatsheet/ для выбора значков."
+
+#: inc/widget-mt-columns.php:254
+#@ mtcolumns
+msgid "Fourth column name"
+msgstr "Четвертый столбец имя"
+
+#: inc/widget-mt-columns.php:264
+#@ mtcolumns
+msgid "Fourth column value"
+msgstr "Четвертое значение столбца"
+
+#: inc/widget-mt-columns.php:272
+#@ mtcolumns
+msgid "Link for fourth button"
+msgstr "Ссылка для четвертой кнопки"
+
+#: inc/widget-mt-columns.php:282
+#@ mtcolumns
+msgid "Title for fourth button"
+msgstr "Название четвертой кнопки"
+
