@@ -17,6 +17,18 @@ Tags: black, gray, red, white, one-column, two-columns, right-sidebar,fixed-layo
 /*--------------------------------------------------------------
 1.0 - Reset  
 --------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------
+                        MY CUSTOM STYLES
+---------------------------------------------------------------*/
+
+
+
+/*--------------------------------------------------------------
+                        END OF CUSTOM STYLES
+---------------------------------------------------------------*/
+
 html {
 	font-size: 62.5%; /* Corrects text resizing oddly in IE6/7 when body font-size is set using em units http://clagnut.com/blog/348/#c790 */
 	overflow-y: scroll; /* Keeps page centered in all browsers regardless of content height */
@@ -384,6 +396,8 @@ custom-button:hover {
 /*--------------------------------------------------------------
 3.0 Elements
 --------------------------------------------------------------*/
+
+
 hr {
 	background-color: #ccc;
 	border: 0;
@@ -391,11 +405,9 @@ hr {
 	margin-bottom: 1.5em;
 }
 ul, ol {
-	margin: 0 0 1.5em 3em;
+	/*margin: 0 0 1.5em 3em;*/
 }
-ul {
-	list-style: disc;
-}
+
 ol {
 	list-style: decimal;
 }
@@ -1258,10 +1270,15 @@ object {
  /*---------------------------------------
  **   6.5 Gallery                    -----
 -----------------------------------------*/
+
+
 .gallery {
 	margin-bottom: 20px;
+    background-color: black;
+    
 }
 .gallery-item {
+    
 	float: left;
 	margin: 0 4px 4px 0;
 	overflow: hidden;
